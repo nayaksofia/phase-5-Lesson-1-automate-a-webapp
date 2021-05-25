@@ -115,3 +115,17 @@ Right Click on project -> Run As -> JUnit Test
 > Then `Run As-> jUnit Test`
 
 > jUnit provide the `Assert Statement` for test cases.  So no need to write `If...else` . 
+
+
+# Git Command To Track: 
+
+```
+> git init
+> git status
+> git add .
+> git commit -m "Add commit message"
+> git remote add origin https://github.com/nayaksofia/phase-5-Lesson-1-automate-a-webapp.git
+> git branch -M main
+> git push -u origin main
+
+```
